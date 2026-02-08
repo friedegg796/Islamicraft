@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "pack_format": 4,
+        "description": "Transform the audio of Minecraft into free good deeds! (Just, pay attention to the Quran, please!)",
+        "supported_formats":
+        {
+         "min_inclusive": 42,
+         "max_inclusive": 88
+        }
+    }
+}
