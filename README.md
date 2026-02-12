@@ -6,12 +6,27 @@ This resource pack changes up a few things in Minecraft, allowing you to have a 
 
 Changes (unfinished):
 
-Splash Text:
- With this resource pack, the splash text has been modified now, to represent a more Islamic outlook (Free knowledge).
+Splash & End Text:
+ With this resource pack, the splash and end poem text has been modified now, to represent a more Islamic outlook (Free knowledge).
 
+ They include, but are not limited to the following:
+ <ul> 
 
-End text:
- With this resource pack, the end text WIP
+<li>Don't do haram!</li>
+<li>Make sure to read Surah Kahf (Surah 18) on Friday!</li>
+<li>Did you do your Salah? (If you're allowed to)</li>
+<li>Make sure to read atleast the last 2 ayat of Surah Baqarah (Surah 2) before you sleep!</li>
+<li>"And do not approach Zina. Indeed, it is ever an immorality and is evil as a way." (Surah Isra verse 32)</li>
+<li>Don't forget to make dua in the last third of the night! (If you wake up)</li>
+<li>“There are two blessings which many people waste: health and free time.” - Bukhari 6412</li>
+<li>Today might be your last day! Turn back to your lord!</li>
+<li>Also try kafkecraft (Texturepack)!</li>
+<li>Audio gotten from https://www.mp3quran.net</li>
+<li>Always repent for your wrongdoings!</li>
+<li>Unquestionably, the help of Allah is near. (Surah Baqarah, verse 214)</li>
+<li>"Regardless of who may become happy or upset, we must clarify truth from falsehood." [Al-Ajwibah Al-Mufīdah, (Page: 101) | Translated By Musa Shaleem Mohammed] </li>
+
+</ul>
 
 Music Discs:
  With this resource pack, the Music Discs have been changed up:
