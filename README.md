@@ -4,73 +4,92 @@ This resource pack changes up a few things in Minecraft, allowing you to have a 
 
 
 
-Changes (unfinished):
+<h2>Changes:</h2>
 
-Splash & End Text:
+<h3>Splash & End Text:</h3>
  With this resource pack, the splash and end poem text has been modified now, to represent a more Islamic outlook (Free knowledge).
 
- They include, but are not limited to the following:
+ The splash text includes, but are not limited to the following:
  <ul> 
 
 <li>Don't do haram!</li>
-<li>Make sure to read Surah Kahf (Surah 18) on Friday!</li>
+<li>Make sure to read Surah Kahf on Friday!</li>
 <li>Did you do your Salah? (If you're allowed to)</li>
-<li>Make sure to read atleast the last 2 ayat of Surah Baqarah (Surah 2) before you sleep!</li>
-<li>"And do not approach Zina. Indeed, it is ever an immorality and is evil as a way." (Surah Isra verse 32)</li>
+<li>Read the last 2 ayat of Surah Baqarah before you sleep!</li>
+<li>"And do not approach Zina. Indeed, it is ever an immorality and is evil as a way." (Surah Isra v.32)</li>
 <li>Don't forget to make dua in the last third of the night! (If you wake up)</li>
 <li>“There are two blessings which many people waste: health and free time.” - Bukhari 6412</li>
 <li>Today might be your last day! Turn back to your lord!</li>
-<li>Also try kafkecraft (Texturepack)!</li>
+<li>Also try Kafkecraft (Texturepack)!</li>
 <li>Audio gotten from https://www.mp3quran.net</li>
 <li>Always repent for your wrongdoings!</li>
-<li>Unquestionably, the help of Allah is near. (Surah Baqarah, verse 214)</li>
-<li>"Regardless of who may become happy or upset, we must clarify truth from falsehood." [Al-Ajwibah Al-Mufīdah, (Page: 101) | Translated By Musa Shaleem Mohammed] </li>
+<li>Unquestionably, the help of Allah is near. (Surah Baqarah, v.214)</li>
+<li>No matter who is angered, we MUST make clear the truth. </li>
 
 </ul>
 
-Music Discs:
- With this resource pack, the Music Discs have been changed up:
+<h3>Music Discs:</h3>
+ With this resource pack, the Music Discs have been changed up (Including modded ones!):
 
-  5: Sa`ud ash-Shuraym - Surah 78, An-Naba'
+  <h4> Vanilla Discs </h4>
+<ul>
+<li> 5: Sa`ud ash-Shuraym - Surah 78, An-Naba'</li>
 
-  11: Mohamed Siddiq al-Minshawi - Surah 93, Ad-Dhua 
+<li> 11: Mohamed Siddiq al-Minshawi - Surah 93, Ad-Dhua </li>
 
-  13: Mohamed Siddiq al-Minshawi - Surah 84, Al-Ishiqaq
+<li> 13: Mohamed Siddiq al-Minshawi - Surah 84, Al-Ishiqaq </li>
 
-  Blocks: Maher Al Meaqli - Surah 52, At-Tur
+<li> Blocks: Maher Al Meaqli - Surah 52, At-Tur </li>
 
-  Cat: Abdul Rahman Al-Sudais - Surah 79, An-Nazi'at
+<li> Cat: Abdul Rahman Al-Sudais - Surah 79, An-Nazi'at </li>
 
-  Chirp: Shaik Abu Bakr Al Shatri - Surah 75, Al-Qiyamah
+<li> Chirp: Shaik Abu Bakr Al Shatri - Surah 75, Al-Qiyamah </li>
 
-  Creator: Mahmoud Khalil Al-Hussary - Surah 90, Al-Balad
+<li> Creator: Mahmoud Khalil Al-Hussary - Surah 90, Al-Balad </li>
 
-  Creator_music_box: Sa`ud ash-Shuraym - Surah 82, Al-Infitar
+<li> Creator_music_box: Sa`ud ash-Shuraym - Surah 82, Al-Infitar </li>
 
-  Far: Sa`ud ash-Shuraym - Surah 73, Al-Muzzamil
+<li> Far: Sa`ud ash-Shuraym - Surah 73, Al-Muzzamil </li>
 
-  Lava_chicken: Sa`ud ash-Shuraym - Surah 80, Abasa
+<li> Lava_chicken: Sa`ud ash-Shuraym - Surah 80, Abasa </li>
 
-  Mall: AbdulBaset AbdulSamad - Surah 89, Al-Fajr
+<li> Mall: AbdulBaset AbdulSamad - Surah 89, Al-Fajr </li>
 
-  Mellohi: Mahmoud Khalil Al-Hussary - Surah 100, Al-'Adiyat
+<li> Mellohi: Mahmoud Khalil Al-Hussary - Surah 100, Al-'Adiyat </li>
 
-  Otherside: Sa`ud ash-Shuraym - Surah 71, Nuh
+<li> Otherside: Sa`ud ash-Shuraym - Surah 71, Nuh </li>
 
-  Pigstep: Sa`ud ash-Shuraym - Surah 62, Al-Jummah
+<li> Pigstep: Sa`ud ash-Shuraym - Surah 62, Al-Jummah </li>
 
-  Precipice: Maher Al Meaqli - Surah 76, Al-Insan
+<li> Precipice: Maher Al Meaqli - Surah 76, Al-Insan </li>
 
-  Relic: Shaik Abu Bakr Al Shatri - Surah 63, Al-Munafiqun
+<li> Relic: Shaik Abu Bakr Al Shatri - Surah 63, Al-Munafiqun </li>
 
-  Stal: AbdulBaset AbdulSamad - Surah 81, At-Tawkir
+<li> Stal: AbdulBaset AbdulSamad - Surah 81, At-Tawkir </li>
 
-  Strad: Mahmoud Khalil Al-Hussary - Surah 98, Al-Bayinah 
+<li> Strad: Mahmoud Khalil Al-Hussary - Surah 98, Al-Bayinah </li>
 
-  Tears: Abdul Rahman Al-Sudais - Surah 83, Al-Muntaffin 
+<li> Tears: Abdul Rahman Al-Sudais - Surah 83, Al-Mutaffin </li>
 
-  Wait: Mousa Bilal - Surah 64, At-Taghabun
+<li> Wait: Mousa Bilal - Surah 64, At-Taghabun </li>
 
-  Ward: Maher Al Meaqli - Surah 61, As-Saff
+<li> Ward: Maher Al Meaqli - Surah 61, As-Saff </li>
+</ul>
+
+<h4> VS Clockwork </h4>
+<ul>
+<li>Wanderlust:  Mahmoud Khalil Al-Hussary - Surah 95, At-Tin </li>
+</ul>
+<h4> Supplementaries </h4>
+<ul>
+<li> Heave Ho: Sa`ud ash-Shuraym - Surah 62, Al-Jummah </li>
+<li> Pancake: Maher Al Meaqli - Surah 73, Al-Muzzammil </li>
+</ul>
+<hr>
+<br>
 
 Audio gotten from https://www.mp3quran.net/eng
+
+<br>
+
+As a side note, yes, you can use this resource pack in your modpacks, no, you cannot post this resource pack in Curseforge or Modrinth, yes, you can modify the pack PRIVATELY and share it PRIVATELY only.
