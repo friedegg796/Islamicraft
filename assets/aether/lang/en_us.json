@@ -1,0 +1,15 @@
+{
+"aether.pro_tips.line.aether.enchant_blue_disk": "Normal Quran discs can be transformed into a blue version.",
+"item.aether.music_disc_aether_tune": "Quran Disc",
+  "item.aether.music_disc_ascending_dawn": "Quran Disc",
+  "item.aether.music_disc_chinchilla": "Quran Disc",
+  "item.aether.music_disc_high": "Quran Disc",
+  "item.aether.music_disc_klepto": "Quran Disc",
+  "item.aether.music_disc_sliders_wrath": "Quran Disc",
+   "lore.item.aether.music_disc_aether_tune": "A Quran disc that plays \"Surah 62, Al-Jummah\" by Sa`ud ash-Shuraym.",
+  "lore.item.aether.music_disc_ascending_dawn": "A Quran disc that plays \"Surah 44, Ad-Duhkan\" by Sa`ud ash-Shuraym.",
+  "lore.item.aether.music_disc_chinchilla": "A Quran disc that plays \"Surah 87, Al-Ala\" by Mahmoud Khalil Al-Hussary.",
+  "lore.item.aether.music_disc_high": "A Quran disc that plays \"Surah 86, At-Tariq\" by Mahmoud Khalil Al-Hussary.",
+  "lore.item.aether.music_disc_klepto": "A Quran disc that plays \"Surah 98, Al Bayinah\" by Mahmoud Khalil Al-Hussary.",
+  "lore.item.aether.music_disc_sliders_wrath": "A Quran disc that plays \"Surah 73, Al-Muzzamil\" by Sa`ud ash-Shuraym"
+}

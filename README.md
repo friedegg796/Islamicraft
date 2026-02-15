@@ -80,11 +80,29 @@ This resource pack changes up a few things in Minecraft, allowing you to have a 
 <ul>
 <li>Wanderlust:  Mahmoud Khalil Al-Hussary - Surah 95, At-Tin </li>
 </ul>
+
 <h4> Supplementaries </h4>
 <ul>
 <li> Heave Ho: Sa`ud ash-Shuraym - Surah 62, Al-Jummah </li>
 <li> Pancake: Maher Al Meaqli - Surah 73, Al-Muzzammil </li>
 </ul>
+
+<h4> Oh the Biomes We've Gone </h4>
+<ul>
+<li> Pixie Club: Mahmoud Khalil Al-Hussary - Surah 84, Al-Ishiqaq </li>
+<li> Better Days: Sa`ud ash-Shuraym - Surah 94, Ash-Sharh </li>
+</ul>
+
+<h4> The Aether </h4>
+<ul>
+<li> Chinchilla: Mahmoud Khalil Al-Hussary - Surah 87, Al-Ala </li>
+<li> High: Mahmoud Khalil Al-Hussary - Surah 86, At-Tariq </li>
+<li> Slider's Wrath: Sa`ud ash-Shuraym - Surah 73, Al-Muzzamil </li>
+<li> Ascending Dawn: Sa`ud ash-Shuraym - Surah 44, Ad-Duhkan </li>
+<li> Aether Tune: Sa`ud ash-Shuraym - Surah 62, Al-Jummah </li>
+<li> Klepto: Mahmoud Khalil Al-Hussary - Surah 98, Al Bayinah </li>
+</ul>
+
 <hr>
 <br>
 
