@@ -10,7 +10,7 @@ This resource pack changes up a few things in Minecraft, allowing you to have a 
  With this resource pack, the splash and end poem text has been modified now, to represent a more Islamic outlook (Free knowledge).
 
  The splash text includes, but are not limited to the following:
- <ul> 
+<ul> 
 
 <li>Don't do haram!</li>
 <li>Make sure to read Surah Kahf on Friday!</li>
@@ -103,10 +103,16 @@ This resource pack changes up a few things in Minecraft, allowing you to have a 
 <li> Klepto: Mahmoud Khalil Al-Hussary - Surah 98, Al Bayinah </li>
 </ul>
 
+
+And more! Audio for these discs were gotten from https://www.mp3quran.net/eng
+
+
+
+
 <hr>
 <br>
+There are other, little features here and there—name changes and the like—that aren't listed here (Would be too much for me if I were to list all of them).
 
-Audio gotten from https://www.mp3quran.net/eng
 
 <br>
 
