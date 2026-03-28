@@ -112,8 +112,3 @@ And more! Audio for these discs were gotten from https://www.mp3quran.net/eng
 <hr>
 <br>
 There are other, little features here and there—name changes and the like—that aren't listed here (Would be too much for me if I were to list all of them).
-
-
-<br>
-
-As a side note, yes, you can use this resource pack in your modpacks, no, you cannot post this resource pack in Curseforge or Modrinth, yes, you can modify the pack PRIVATELY and share it PRIVATELY only.
