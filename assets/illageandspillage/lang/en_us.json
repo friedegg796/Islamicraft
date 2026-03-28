@@ -1,7 +1,4 @@
 {
-  "item.illageandspillage.magispeller_spawn_egg": "Bigbrainager Spawn Egg",
-  "item.illageandspillage.spiritcaller_spawn_egg": "Hologrammer Spawn Egg",
-
   "entity.illageandspillage.magispeller": "Bigbrainager",
   "entity.illageandspillage.spiritcaller": "Hologrammer",
   "entity.illageandspillage.mob_spirit": "Mob Hologram",
@@ -10,7 +7,8 @@
   "entity.illageandspillage.spirit_hand": "Hologram Hand",
   "entity.illageandspillage.trick_or_treat": "Freakager Candy",
  
-
+  "item.illageandspillage.magispeller_spawn_egg": "Bigbrainager Spawn Egg",
+  "item.illageandspillage.spiritcaller_spawn_egg": "Hologrammer Spawn Egg",
   "item.illageandspillage.totem_of_banishment": "Scary Vex Doll",
   "item.illageandspillage.spellbound_book": "Holographic Book",
   "item.illageandspillage.magi_disc": "Quran Disc",
@@ -43,19 +41,14 @@
   "subtitles.entity.spiritcaller.charge_laser": "Hologrammer prepares laser",
   "subtitles.entity.spiritcaller.laser": "Hologram Laser blasts",
   "subtitles.entity.spiritcaller.anticheese": "Hologrammer is unamused",
-
   "subtitles.entity.mob_spirit.hurt": "Mob Hologram hurts",
   "subtitles.entity.mob_spirit.death": "Mob Hologram dies",
-
-
-
- 
   "subtitles.entity.freakager.trickortreat_destroy": "Freakager Candy destroyed",
   "subtitles.entity.freakager.trickortreat": "Freakager prepares Freakager Candies",
-
   "subtitles.item.totem_of_banishment.banish": "Vexes scared away",
-
   "subtitles.item.spellbound_book.use": "Hologramming",
+
+
   "advancements.illageandspillage.magi_advancement_desc" : "Defeat the Bigbrainager",
   "advancements.illageandspillage.spiri_advancement" : "Entire Hologramination",
   "advancements.illageandspillage.spiri_advancement_desc" : "Defeat the Hologrammer"
