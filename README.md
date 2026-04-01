@@ -13,7 +13,21 @@ Audio for Jukebox Discs were gotten from https://www.mp3quran.net/eng
 ## Credits
 
 
-"Blind Spots" "Music":
+Everything in assets/minecraft/sounds/music/game/creative:
 Music Provided By NoCopyrightNasheeds
 Title: Dramatic & Calming Background Nasheed ┇ Vocals Only [No Copyright Nasheeds]
 Watch:[    • Dramatic & Calming Background Nasheed ┇ Vo...  ](https://www.youtube.com/watch?v=hlK3dqsJrEs)
+
+
+Don't ask me why it says to put music, I just do what I'm told.
+
+
+Everything in assets/minecraft/sounds/music/menu:
+
+YouTube CC-BY 4.0  [ Creative Commons Attribution 4.0 International ](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+https://www.youtube.com/watch?v=UBW9oWc1FNU
+
+Video was made into an OGG audio file
+
+Please note I do NOT support all of the videos on the above channels, I only took what was benefical from them.
